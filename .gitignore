@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/csharp_9/CovariantReturns/bin/Debug/net5.0
+/csharp_9/.vs/csharp_9/v16/.suo
+/csharp_9/CovariantReturns/obj
+/csharp_9/csharp_9/obj
+/csharp_9/ImprovedPatternMatching/bin/Debug/net5.0
+/csharp_9/ImprovedPatternMatching/obj
+/csharp_9/InitOnlyProperties/bin/Debug/net5.0
+/csharp_9/InitOnlyProperties/obj
+/csharp_9/Records/bin/Debug/net5.0
+/csharp_9/Records/obj/Debug/net5.0
+/csharp_9/Records/obj
+/csharp_9/TopLevelPrograms/bin/Debug/net5.0
+/csharp_9/TopLevelPrograms/obj
